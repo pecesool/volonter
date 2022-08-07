@@ -1,0 +1,13 @@
+C:\Users\peces\source\repos\volonter\volonter\bin\Debug\volonter.exe.config
+C:\Users\peces\source\repos\volonter\volonter\bin\Debug\volonter.exe
+C:\Users\peces\source\repos\volonter\volonter\bin\Debug\volonter.pdb
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.csproj.AssemblyReference.cache
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.Properties.Resources.resources
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.csproj.GenerateResource.cache
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.csproj.CoreCompileInputs.cache
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.exe
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.pdb
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.authorization.resources
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.dobavlenie.resources
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.menu.resources
+C:\Users\peces\source\repos\volonter\volonter\obj\Debug\volonter.registr.resources
